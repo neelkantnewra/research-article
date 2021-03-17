@@ -1,4 +1,4 @@
-# COVID-19: origin and Pathogenesis
+# COVID-19: Origin and Pathogenesis
 
 ## Abstract
 
