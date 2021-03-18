@@ -14,3 +14,8 @@ __Keywords__: bats; covid-19; pangolins; SARS- CoV-2; virus;  wet market.
 
 ## Content
 - Introduction
+
+
+## Introduction
+
+__Coronavirus__ are the viruses known for having the longest genome of all the known RNA- viruses. It has a crown like structure, from where it is given the name corona(is a latin word of crown). These are the spike proteins on the exterior. Previously this virus was known for mostly affecting Birds or small mammals but as we can see now it has the ability to have human to human transmission. In humans and Birds, they cause respiratory tract infection, this can be mild, but can be lethal at some instances`(Fouchier et al. 2004)`. Mild illness shows the symptoms of Cold, many articles claim that the cold having dry cough are the most out of them. But there are many exceptional cases already present which show the number of patients having wet coughs and still infected. On rare occasions, gastrointestinal coronavirus infection has been associated with the outbreak of diarrhoea in children`(Tyrrell and Myint 2011)`.
