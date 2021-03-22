@@ -14,11 +14,15 @@ __Keywords__: bats; covid-19; pangolins; SARS- CoV-2; virus;  wet market.
 
 ## Content
  - [Introduction](#Introduction)
+ - [SARS CoV 2 genome](#SARSCoV2genome)
+
 
 
 ## Introduction <a name="Introduction"></a>
 
 __Coronavirus__ are the viruses known for having the longest genome of all the known RNA- viruses. It has a crown like structure, from where it is given the name corona(is a latin word of crown). These are the spike proteins on the exterior. Previously this virus was known for mostly affecting Birds or small mammals but as we can see now it has the ability to have human to human transmission. In humans and Birds, they cause respiratory tract infection, this can be mild, but can be lethal at some instances`(Fouchier et al. 2004)`. Mild illness shows the symptoms of Cold, many articles claim that the cold having dry cough are the most out of them. But there are many exceptional cases already present which show the number of patients having wet coughs and still infected. On rare occasions, gastrointestinal coronavirus infection has been associated with the outbreak of diarrhoea in children`(Tyrrell and Myint 2011)`.
+
+![Screenshot 2021-03-14 at 9 05 34 AM](https://user-images.githubusercontent.com/63470232/112012627-5cc4a300-8b4f-11eb-8d49-3630fe7524bd.png)
 
 Based on the cell that is likely infected it is classified into three different phases corresponding to different stages of the disease`(Wu and McGoogan 2020)`.The early phase of Asymptotic state[__initial 1-2 days__] where SARS-CoV-2 inhaled virus binds to epithelial cells in the nasal cavity and begins replicating. __SARS-CoV2__ and __SARS-CoV__ both use the __ACE2__ receptor . The ciliated cells are main cells infected in the conducting airways, according to in vitro data with SARS-CoV. The virus is circulating locally, but there is only a small innate immune response. Nasal swabs will diagnose the virus at this point.These people are contagious, even though their viral burden is minimal. The viral RNA __RT-PCR__ value can be useful in predicting viral load, eventual infectivity, and clinical path.These experiments could be able to detect super spreaders`(Mason 2020)`. The sample selection protocol will have to be standardised for the RT-PCR period number to be meaningful. Swabs from the nose can be more susceptible than swabs from the throat.
 
@@ -27,3 +31,13 @@ In the second phase The virus spreads and migrates down the respiratory tract, c
 But most of the people enter the third stage and develop pulmonary infiltrates, with some developing life-threatening disease. Its response varies with the age group. Once the prevalence of mild and asymptomatic cases is better described, the fatality and morbidity rates can be updated.The virus has now infiltrated alveolar type II cells in the lung's gas exchange units. In comparison to type I cells, __SARS-CoV__ and influenza preferentially infect type II cells. The infected alveolar units are usually found on the periphery and in the centrilobular space. `(Okada et al. 2007; Hoffmann et al. 2020; Mason 2020)`__SARS-CoV__ replicates in type II cells, releasing a large number of viral particles before the cells die of apoptosis. As far age is concerned because of their weakened immune responses and decreased ability to repair damaged epithelia, the elderly are especially vulnerable. The elderly also have lower mucociliary clearance, which could make it easier for the virus to spread to the lung's gas exchange units.
 
 We understand the different stages of the transmission as well as replication of the virus, these viruses are normally spread by droplets in the air (coughing, sneezing). Oral-fecal transmission experiments have recently been launched to see whether viral shedding from asymptomatic patients can induce transmission without coughing or sneezing. Virus transmission and the risk of transmission without direct contact have several aspects.
+
+![spiral Chart](https://cmr.asm.org/content/cmr/28/2/465/F7.medium.gif)
+
+## SARS CoV 2 genome <a name="SARSCoV2genome"></a>
+
+![Spiral Chart](https://www.mdpi.com/pathogens/pathogens-09-00331/article_deploy/html/images/pathogens-09-00331-g001.png)
+
+The virus is really not alive; it's just a chunk of grease with a chromosome within. Only a compatible host would be able to use this genome or in other sense we can say it will infect or can survive in a particular specific host. As a result, the virus's genome(a sequence of letters containing all of the knowledge) required to replicate and assemble a virus, is at its heart. Before we begin searching for this sequence, it's important to note that COVID-19 is caused by a particular type of virus known as a "positive strand RNA virus" based on the way this information is collected.
+
+SARS-COV2 is a single-strand RNA virus, which means it doesn't store the genetic material in DNA but instead in a single strand of RNA. Since RNA viruses have a higher mutation rate than DNA viruses, they are the most prevalent cause of emerging diseases in humans.As compared to RNA, DNA is a much more stable macromolecule. RNA viruses use virally encoded RNA-dependent RNA polymerase to copy their genomes (RdRp).
