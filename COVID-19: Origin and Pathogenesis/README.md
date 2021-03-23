@@ -15,6 +15,9 @@ __Keywords__: bats; covid-19; pangolins; SARS- CoV-2; virus;  wet market.
 ## Content
  - [Introduction](#Introduction)
  - [SARS CoV 2 genome](#SARSCoV2genome)
+ - [Zoonotic origin](#zoonotic_origin)
+  - [Phylogenetic Analysis](#zPhy)
+  - [Multiple Sequence Alignment](zMul)
 
 
 
