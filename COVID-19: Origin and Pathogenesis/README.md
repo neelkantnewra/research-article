@@ -16,8 +16,8 @@ __Keywords__: bats; covid-19; pangolins; SARS- CoV-2; virus;  wet market.
  - [Introduction](#Introduction)
  - [SARS CoV 2 genome](#SARSCoV2genome)
  - [Zoonotic origin](#zoonotic_origin)
-  - [Phylogenetic Analysis](#zPhy)
-  - [Multiple Sequence Alignment](zMul)
+   * [Phylogenetic Analysis](#zPhy)
+   * [Multiple Sequence Alignment](zMul)
 
 
 
@@ -44,4 +44,24 @@ We understand the different stages of the transmission as well as replication of
 The virus is really not alive; it's just a chunk of grease with a chromosome within. Only a compatible host would be able to use this genome or in other sense we can say it will infect or can survive in a particular specific host. As a result, the virus's genome(a sequence of letters containing all of the knowledge) required to replicate and assemble a virus, is at its heart. Before we begin searching for this sequence, it's important to note that COVID-19 is caused by a particular type of virus known as a "positive strand RNA virus" based on the way this information is collected.
 
 SARS-COV2 is a single-strand RNA virus, which means it doesn't store the genetic material in DNA but instead in a single strand of RNA. Since RNA viruses have a higher mutation rate than DNA viruses, they are the most prevalent cause of emerging diseases in humans.As compared to RNA, DNA is a much more stable macromolecule. RNA viruses use virally encoded RNA-dependent RNA polymerase to copy their genomes __(RdRp)__.The RNA genome serves as a blueprint for the development of new RNA strands. At least three types of RNA must be synthesised during RNA virus replication: the genome, a copy of the genome (reference genome), and mRNAs. Some RNA viruses, along with coronaviruses, make subgenomic mRNA copies as well. Positive-sense RNA viruses (abbreviated __+ssRNA__) are viruses with __ssRNA__ genomes that can act as mRNA directly. Negative-sense RNA viruses, on the other hand, are ssRNA viruses with genomes that cannot be directly translated by ribosomes and are instead used as a basis for mRNA processing (abbreviated -ssRNA). __+ssRNA__ viruses infect a wide variety of host species and are more widespread than any other virus family. These include seven separate human viral families that cause major disease in humans, such as coronaviruses, flaviviruses, and picornaviruses`(Crowe 2004; Desforges et al. 2019; Firth et al. 2014)`. Since the genome of __+ssRNA__ viruses functions as __mRNA__, they provide contagious genetic material. Their genomes have 5′-caps (or proteins that behave similarly to a 5′-cap) and poly(A) tail sequences at the 3′-end, and are translated by host ribosomes.
+
+## Zoonotic Origin <a name="zoonotic_origin"></a>
+
+Whenever any pandemic occur, researcher generally look to answer the following question: What was the source of this new coronavirus? What species, when did it first infect humans, and how did it do so? This all question answer will further help the researcher designing the vaccine. Our target in this objective is to determine its zoonotic origins, or which animal it came from. To answer this query, we'll need to look for data structures in the genomes of corona viruses that can help us answer it.
+
+### Phylogenetic Analysis <a name="zPhy"></a>
+
+The use of a phylogenetic analysis technique will help us figure out where the novel SARS-COV-2 virus came from. To do so, we compared the SARS-COV-2 genome sequences to those of other coronavirus strains from different species in a phylogenetic tree. Since the pandemic began in China. We want to compare strains from human SARS-COV-2, bat coronavirus, and pangolins using China as a "geological spot."
+
+We collected data from NCBI With fixing the origin to China, and to make the plot look comfortable we take few genome sequence two- three each from our classes. We have taken Homosapience as reference genome. 
+
+![Screenshot 2021-02-13 at 1 54 33 PM](https://user-images.githubusercontent.com/63470232/112143686-3dd11a00-8bfe-11eb-92aa-49ff82f3f581.png)
+
+When looking at the phylogenetic trees produced by the study, it's clear that the bat coronavirus is the earliest in the series, and that it's possible that it mutated to produce Human SARS-COV2 and Pangolin coronavirus. Furthermore, the fact that SARS-COV2 and pangolins are in similar clades suggests that they have closer genetic relationships. Since pangolin coronavirus and SARS-COV-2 have similar ancestral relationships, these findings suggest that SARS-COV-2 evolved from pangolin coronavirus.
+
+### Multiple Sequence Alignment
+
+The next step is to figure out whether the pangolin coronavirus resembles SARS-COV2 rather than the Bat coronavirus. Multiple alignments may be performed and visualised. Let's imagine MSA in the UGENE now that we've collected it from our pipeline.Bat coronavirus has significantly more variance or mutations than SARS-COV2 and Pangolin coronavirus. 
+
+The MSA of Human SARS-COV2, Bat-SARS, Bat coronavirus, and Pangolins coronavirus represents the variations in sequences at the Ammino Acid level. Human SARS-COV-2 and pangolin coronavirus have a 7-9 percent dissimilarity, whereas Human SARS-COV-2 and Bat coronavirus have a 15-17 percent dissimilarity.It also implies that not all variants at the nucleotide level are passed to the Ammino Acid level, since the nucleotide level has a higher percent age with variations than the Amino Acid level. Furthermore, SARS-COV-2 is more similar to the pangolin coronavirus than the Bat-SARS and Bat coronavirus, similar to the pattern at the nucleotide level variation`(Zhang et al. 2020)`. 
 
