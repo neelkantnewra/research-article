@@ -65,3 +65,52 @@ The next step is to figure out whether the pangolin coronavirus resembles SARS-C
 
 The MSA of Human SARS-COV2, Bat-SARS, Bat coronavirus, and Pangolins coronavirus represents the variations in sequences at the Ammino Acid level. Human SARS-COV-2 and pangolin coronavirus have a 7-9 percent dissimilarity, whereas Human SARS-COV-2 and Bat coronavirus have a 15-17 percent dissimilarity.It also implies that not all variants at the nucleotide level are passed to the Ammino Acid level, since the nucleotide level has a higher percent age with variations than the Amino Acid level. Furthermore, SARS-COV-2 is more similar to the pangolin coronavirus than the Bat-SARS and Bat coronavirus, similar to the pattern at the nucleotide level variation`(Zhang et al. 2020)`. 
 
+## Pathogenesis
+
+SARS-COV-2 is enclosed by a lipid bilayer membrane, similar to how a ball of grease is surrounded by a lipid bilayer membrane.The membrane protein (M protein), the envelope protein (E protein), and the spike protein(S protein) make up the lipid bilayer or viral envelope.The interaction between the virus's Spike protein and the host's Angiotensin-Converting Enzyme 2 (ACE2) receptor is critical for pathogenesis, according to published research.
+
+![](https://cdn.britannica.com/47/215947-050-66A6BF8B/Severe-acute-respiratory-syndrome-Coronavirus-SARS-CoV-2-COVID-19.jpg)
+
+Coronavirus is also famous for its crown like structure, they are due to the spike  glycoprotein on the outer surface connecting the interior and are the main position for interacting with any living cell. Spike protein is a glycosylated transmembrane fusion protein that varies in size between coronaviruses. The S-protein, which has a length of ~1200 amino acids, is a class-I viral fusion protein that plays a role in cell receptor binding, tissue immune response, and pathogenesis. The spike protein is important for infecting the host cell and penetrating it. Spike protein is a trimer protein with two subunits of each monomer.(Lin et al., 2020)Specifically, the S1 subunit at the N-terminus and the S2 subunit at the C-terminus. There are two cleavage sites in the coronavirus spike protein. During infection, host cell proteases process the S1/S2 cleavage site. In some viruses, the presence of a furin-like S2' second cleavage site between the fusion peptide (FP) and the internal fusion peptide (IFP) has been shown to enhance pathogenicity and cellular tropism. Proprotein convertases (PCs) cleave and mediate the pathogenicity of precursor viral proteins including Spike glycoprotein. By improving viral fusion with host cells, the cleaving and processing of essential cell surface proteins, especially furin, helps to prevent viral infections. SARS-CoV2 and SARS both have this functionality. As the S1 subunit binds to the host cell receptor, the S2 subunit undergoes a significant conformational transition. This shift is critical for fusion. HR1 and HR2 are two heptad repeat regions that make up the S2(Fouchier et al., 2004; Desforges et al., 2019; Mason, 2020). The unstructured, pre-hairpin linker S2 structure becomes helical in the first conformational transition. The S2 C-helix turns to a coil in the second conformational transition, gradually forming a six-helix bundle. The anchoring of the fusion peptide to the host cell membrane, and hence the delivery of the nuclear material into the host cell, is dependent on these conformational changes.
+
+![Picture27](https://user-images.githubusercontent.com/63470232/112423661-16429480-8d59-11eb-866b-75f1e7a9d1c2.png)
+
+
+We discovered that the RBD regions of Pangolin coronavirus have the fewest variations, while MERS has the most variations as compared to SARS-COV-2. This most likely suggests their pathogenicity. 
+
+## Conclusion
+
+Based on the evidence obtained from 11 sample strains from NCBI, phylogenetic analysis and multiple sequence alignment (MSA) specifically reveal that Pangolin coronavirus is more similar to Human SARS-COV2. Pangolin Coronavirus is most likely the source of Human SARS-COV-2. This also suggests another aspect apart from medical research that there is a large number of poaching cases going on for pangolin and other wildlife creatures. 
+
+## Reference
+
+Crowe, J. E. (2004) ‘Human Metapneumovirus as a Major Cause of Human Respiratory Tract Disease’, Pediatric Infectious Disease Journal, pp. S215–S221. doi: 10.1097/01.inf.0000144668.81573.6d.
+
+Desforges, M. et al. (2019) ‘Human Coronaviruses and Other Respiratory Viruses: Underestimated Opportunistic Pathogens of the Central Nervous System?’, Viruses, 12(1). doi: 10.3390/v12010014.
+
+Desmarest, A. G. (1822) Mammalogie ou description des espèces de mammifères. chez Mme veuve Agasse. Available at: https://play.google.com/store/books/details?id=oUs_AAAAcAAJ.
+
+Covid 19 origin and pathogenesis Available at:https://edu.t-bio.info/course/covid-19-origin-and-pathogenesis-of-sars-cov2/lessons/coronaviruses-introduction/
+
+Firth, C. et al. (2014) ‘Detection of zoonotic pathogens and characterization of novel viruses carried by commensal Rattus norvegicus in New York City’, mBio, 5(5), pp. e01933–14. doi: 10.1128/mBio.01933-14.
+
+Fouchier, R. A. M. et al. (2004) ‘Avian influenza A virus (H7N7) associated with human conjunctivitis and a fatal case of acute respiratory distress syndrome’, Proceedings of the National Academy of Sciences of the United States of America, 101(5), pp. 1356–1361. doi: 10.1073/pnas.0308352100.
+
+Hassanin, A., Grandcolas, P. and Veron, G. (2021) ‘Covid-19: natural or anthropic origin?’, Mammalia, 85(1), pp. 1–7. doi: 10.1515/mammalia-2020-0044.
+Hoffmann, M. et al. (2020) ‘SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor’, Cell, pp. 271–280.e8. doi: 10.1016/j.cell.2020.02.052.
+
+Lin, L. et al. (2020) ‘Hypothesis for potential pathogenesis of SARS-CoV-2 infection–a review of immune changes in patients with viral pneumonia’, Emerging microbes & infections, 9(1), pp. 727–732. doi: 10.1080/22221751.2020.1746199.
+
+Mason, R. J. (2020) ‘Pathogenesis of COVID-19 from a cell biology perspective’, The European respiratory journal: official journal of the European Society for Clinical Respiratory Physiology, 55(4). doi: 10.1183/13993003.00607-2020.
+
+Morens, D. M. et al. (2020) ‘The origin of COVID-19 and why it matters’, The American journal of tropical medicine and hygiene, 103(3), pp. 955–959. doi: 10.4269/ajtmh.20-0849.
+
+Okada, F. et al. (2007) ‘Clinical/pathologic correlations in 553 patients with primary centrilobular findings on high-resolution CT scan of the thorax’, Chest, 132(6), pp. 1939–1948. doi: 10.1378/chest.07-0482.
+
+Sims, A. C. et al. (2005) ‘Severe acute respiratory syndrome coronavirus infection of human ciliated airway epithelia: role of ciliated cells in viral spread in the conducting airways of the lungs’, Journal of virology, 79(24), pp. 15511–15524. doi: 10.1128/JVI.79.24.15511-15524.2005.
+
+Tyrrell, D. A. J. and Myint, S. H. (2011) ‘Coronaviruses’, in Baron, S. (ed.) Medical Microbiology. Galveston (TX): University of Texas Medical Branch at Galveston. Available at: https://www.ncbi.nlm.nih.gov/pubmed/21413266.
+
+Wu, Z. and McGoogan, J. M. (2020) ‘Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention’, JAMA: the journal of the American Medical Association, 323(13), pp. 1239–1242. Available at: https://jamanetwork.com/journals/jama/article-abstract/2762130.
+
+Zhang, T., Wu, Q. and Zhang, Z. (2020) ‘Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak’, Current biology: CB, 30(7), pp. 1346–1351.e2. doi: 10.1016/j.cub.2020.03.022.
