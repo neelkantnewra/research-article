@@ -18,6 +18,9 @@ __Keywords__: bats; covid-19; pangolins; SARS- CoV-2; virus;  wet market.
  - [Zoonotic origin](#zoonotic_origin)
    * [Phylogenetic Analysis](#zPhy)
    * [Multiple Sequence Alignment](zMul)
+ - [Pathogenesis](#pathogenesis)
+ - [Conclusion](#conclusion)
+ - [Reference](#reference)
 
 
 
@@ -59,13 +62,13 @@ We collected data from NCBI With fixing the origin to China, and to make the plo
 
 When looking at the phylogenetic trees produced by the study, it's clear that the bat coronavirus is the earliest in the series, and that it's possible that it mutated to produce Human SARS-COV2 and Pangolin coronavirus. Furthermore, the fact that SARS-COV2 and pangolins are in similar clades suggests that they have closer genetic relationships. Since pangolin coronavirus and SARS-COV-2 have similar ancestral relationships, these findings suggest that SARS-COV-2 evolved from pangolin coronavirus.
 
-### Multiple Sequence Alignment
+### Multiple Sequence Alignment <a name="zMul"></a>
 
 The next step is to figure out whether the pangolin coronavirus resembles SARS-COV2 rather than the Bat coronavirus. Multiple alignments may be performed and visualised. Let's imagine MSA in the UGENE now that we've collected it from our pipeline.Bat coronavirus has significantly more variance or mutations than SARS-COV2 and Pangolin coronavirus. 
 
 The MSA of Human SARS-COV2, Bat-SARS, Bat coronavirus, and Pangolins coronavirus represents the variations in sequences at the Ammino Acid level. Human SARS-COV-2 and pangolin coronavirus have a 7-9 percent dissimilarity, whereas Human SARS-COV-2 and Bat coronavirus have a 15-17 percent dissimilarity.It also implies that not all variants at the nucleotide level are passed to the Ammino Acid level, since the nucleotide level has a higher percent age with variations than the Amino Acid level. Furthermore, SARS-COV-2 is more similar to the pangolin coronavirus than the Bat-SARS and Bat coronavirus, similar to the pattern at the nucleotide level variation`(Zhang et al. 2020)`. 
 
-## Pathogenesis
+## Pathogenesis <a name="pathogenesis"></a>
 
 SARS-COV-2 is enclosed by a lipid bilayer membrane, similar to how a ball of grease is surrounded by a lipid bilayer membrane.The membrane protein (M protein), the envelope protein (E protein), and the spike protein(S protein) make up the lipid bilayer or viral envelope.The interaction between the virus's Spike protein and the host's Angiotensin-Converting Enzyme 2 (ACE2) receptor is critical for pathogenesis, according to published research.
 
@@ -78,11 +81,11 @@ Coronavirus is also famous for its crown like structure, they are due to the spi
 
 We discovered that the RBD regions of Pangolin coronavirus have the fewest variations, while MERS has the most variations as compared to SARS-COV-2. This most likely suggests their pathogenicity. 
 
-## Conclusion
+## Conclusion <a name="conclusion"></a>
 
 Based on the evidence obtained from 11 sample strains from NCBI, phylogenetic analysis and multiple sequence alignment (MSA) specifically reveal that Pangolin coronavirus is more similar to Human SARS-COV2. Pangolin Coronavirus is most likely the source of Human SARS-COV-2. This also suggests another aspect apart from medical research that there is a large number of poaching cases going on for pangolin and other wildlife creatures. 
 
-## Reference
+## Reference <a name="reference"></a>
 
 Crowe, J. E. (2004) ‘Human Metapneumovirus as a Major Cause of Human Respiratory Tract Disease’, Pediatric Infectious Disease Journal, pp. S215–S221. doi: 10.1097/01.inf.0000144668.81573.6d.
 
